@@ -2,7 +2,7 @@
 
 [Julia] syntax highlighting for Vim, taken from JuliaEditorSupport/julia-vim.
 
-**[INSTALLATION INSTRUCTIONS]**
+[Installation instructions].
 
 [Julia]: http://julialang.org/
 [Installation instructions]: INSTALL.md
