@@ -1,0 +1,35 @@
+####### General
+
+*.out
+*.o
+
+# Ignore files designated as logs
+*log.txt
+
+
+####### Java
+
+# Compiled Java class file
+*.class
+
+
+####### Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Swap files (e.g. for vim)
+*.swp
+# Not entirely sure what this is, but it seems to be like a swap file
+.~lock.*
+
+# Ignore vim Sessions
+Session.vim
+
+# NFS files
+.nfs*
